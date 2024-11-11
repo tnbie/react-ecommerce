@@ -1,1 +1,1 @@
-# vanilla-ecommerce
+# react ecommerce
